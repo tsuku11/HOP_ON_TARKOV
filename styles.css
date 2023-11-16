@@ -1,0 +1,112 @@
+body{
+  background:#c0c0c0;
+}
+#wrapper{
+  width: 900px; 
+  margin: 0 auto;
+  background:rgb(193, 55, 55); 
+}
+#header{
+position:relative; 
+  height: 300px;
+  background-color: rgb(85, 77, 77)
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: {rgba(0,0,0,0.5) 0px 1px 3px};
+}
+img {
+    float: left; 
+    margin: 80px 0px 0px 50px;
+    width: 300px;
+    height: 200px;
+}       
+h1 {
+    margin: 0 0 10px 40px;
+    color: #464451;
+}
+.glavniy {
+    position: absolute;
+    top: -35px;
+    left: 20px;
+    font-size: 45px;
+    font-style: revert;
+    font-family: "Bahnschrift";
+    font-weight: bold;
+    color: #ebe0e0;
+}
+.nomerok {
+    position: absolute;
+    top: -20px;
+    left: 650px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    color: #c6c6c6;
+    font-family: "Bahnschrift";
+}
+.terrapeft {
+    float: left;
+    margin: 80px 0px 0px 100px;
+    width: 300px;
+    height: 200px;
+}
+#sidebar {
+    background-color: #fcdfdf;
+    width: 180px;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+    box-shadow: rgb(242 242 242);
+}
+.marcer {
+    float: left;
+    margin: 0px 5px 0 0;
+    width:32px;
+    height:32px;
+}
+.right {
+    float: right;
+    margin: 270px -185px 40px 0px;
+    width: 175px;
+    height: 275px;
+}
+#content {
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #dcdcdc;
+    background-color: #fcdfdf ;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.left {
+    float: left;
+    margin: 15px 20px 7px 7px;
+    width: 120px;
+    height: auto;
+}
+#footer {
+    height: 80px;
+    background-color: #fcdfdf;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.clear{
+  clear: both;
+}
+.fon {
+    float: left;
+    margin: 20px 0 0 20px;
+    font-family: "Bahnschrift";
+}
+.fax {
+    float: left;
+    margin: 20px 0 0 60px;
+    font-family: "Bahnschrift";
+}
+.mail {
+    float: left;
+    margin: 20px 0 0 60px;
+    font-family: "Bahnschrift";
+}
